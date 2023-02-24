@@ -12,7 +12,7 @@
  *          Try "ctrl + left-click" on the text "String" to see the source code of the String class.
  * 
  * An object is an instantiation of a class.
- * We would like objects to be able to:
+ * We would like objects to be able to
  *      a) contain some data
  *      and
  *      b) change its behavior based off of the data that it individually contains.
